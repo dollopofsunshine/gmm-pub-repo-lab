@@ -7,7 +7,7 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     backstage.io/managed-by-location: "file:/tmp/catalog-info.yaml"
     snyk.io/org-name: dollopofsunshine
-    snyk.io/project-ids: gmm-pub-repo-lab
+    snyk.io/project-ids: 550384479
 spec:
   type: service
   owner: cloud-platforms
