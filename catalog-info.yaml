@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "bd-pub-repo-demo"
+  annotations:
+    github.com/project-slug: dollopofsunshine/gmm-pub-repo-lab
+    backstage.io/techdocs-ref: dir:.
+    backstage.io/managed-by-location: "file:/tmp/catalog-info.yaml"
+spec:
+  type: service
+  owner: cloud-platforms
+  lifecycle: experimental
