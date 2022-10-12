@@ -6,6 +6,8 @@ metadata:
     github.com/project-slug: dollopofsunshine/gmm-pub-repo-lab
     backstage.io/techdocs-ref: dir:.
     backstage.io/managed-by-location: "file:/tmp/catalog-info.yaml"
+    snyk.io/org-name: dollopofsunshine
+    snyk.io/project-ids: gmm-pub-repo-lab
 spec:
   type: service
   owner: cloud-platforms
