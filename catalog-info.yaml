@@ -7,7 +7,7 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     backstage.io/managed-by-location: "file:/tmp/catalog-info.yaml"
     snyk.io/org-name: dollopofsunshine
-    snyk.io/project-ids: "550384479"
+    snyk.io/project-ids: "c609b306-daa3-4256-8afd-2cefe34f0fad"
 spec:
   type: service
   owner: cloud-platforms
